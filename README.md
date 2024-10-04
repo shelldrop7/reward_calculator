@@ -3,7 +3,7 @@ Calculation of rewards in bash.
 </br></br>
 
 #### Input
-Amount in Token or FIAT.
+Amount in Token or FIAT.</br>
 Reward in %.
 </br></br>
 
